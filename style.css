@@ -898,7 +898,7 @@
 @media (max-width: 768px) {
   .home .header {
     width: 100% !important;
-    height: auto !important;
+    height: 812px !important;
     padding: 2rem 1rem;
     flex-direction: column;
   }
