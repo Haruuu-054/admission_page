@@ -177,18 +177,6 @@
     font-style: var(--text-medium-normal-font-style);
   }
   
-  .home .actions {
-    all: unset;
-    box-sizing: border-box;
-    display: inline-flex;
-    border: 1px solid;
-    border-color: #000000;
-    align-items: flex-start;
-    gap: 16px;
-    position: relative;
-    flex: 0 0 auto;
-  }
-  
   .home .button {
     all: unset;
     box-sizing: border-box;
